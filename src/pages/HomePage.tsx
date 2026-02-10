@@ -65,27 +65,27 @@ export function HomePage() {
   const services = [
     {
       title: 'Facial Treatments',
-      image: 'https://images.pexels.com/photos/3997379/pexels-photo-3997379.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+      image: 'https://images.pexels.com/photos/3997993/pexels-photo-3997993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       description: 'Rejuvenating facials tailored to your skin',
     },
     {
       title: 'Massage Therapy',
-      image: 'https://images.pexels.com/photos/3757942/pexels-photo-3757942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+      image: 'https://images.pexels.com/photos/3997991/pexels-photo-3997991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       description: 'Therapeutic touch for complete relaxation',
     },
     {
       title: 'Hair Styling',
-      image: 'https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+      image: 'https://images.pexels.com/photos/3065209/pexels-photo-3065209.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       description: 'Expert cuts and vibrant color transformations',
     },
     {
       title: 'Makeup Artistry',
-      image: 'https://images.pexels.com/photos/1115128/pexels-photo-1115128.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+      image: 'https://images.pexels.com/photos/1582992/pexels-photo-1582992.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       description: 'Professional makeup for every occasion',
     },
     {
       title: 'Nail Care',
-      image: 'https://images.pexels.com/photos/1813507/pexels-photo-1813507.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+      image: 'https://images.pexels.com/photos/3997379/pexels-photo-3997379.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       description: 'Luxurious manicures and pedicures',
     },
   ]
@@ -113,7 +113,7 @@ export function HomePage() {
       <section ref={heroRef} className="relative h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="https://images.pexels.com/photos/3764568/pexels-photo-3764568.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            src="https://images.pexels.com/photos/3997991/pexels-photo-3997991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
             alt="Spa Experience"
             className="w-full h-full object-cover"
           />

@@ -9,7 +9,7 @@ export function ServicesPage() {
   const serviceCategories = [
     {
       category: 'Facial Treatments',
-      image: 'https://images.pexels.com/photos/3997379/pexels-photo-3997379.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+      image: 'https://images.pexels.com/photos/3997993/pexels-photo-3997993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       services: [
         {
           name: 'Signature Facial',
@@ -33,7 +33,7 @@ export function ServicesPage() {
     },
     {
       category: 'Massage Therapy',
-      image: 'https://images.pexels.com/photos/3757942/pexels-photo-3757942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+      image: 'https://images.pexels.com/photos/3997991/pexels-photo-3997991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       services: [
         {
           name: 'Swedish Massage',
@@ -57,7 +57,7 @@ export function ServicesPage() {
     },
     {
       category: 'Hair Services',
-      image: 'https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+      image: 'https://images.pexels.com/photos/3065209/pexels-photo-3065209.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       services: [
         {
           name: 'Hair Cut & Style',
@@ -81,7 +81,7 @@ export function ServicesPage() {
     },
     {
       category: 'Makeup Services',
-      image: 'https://images.pexels.com/photos/1115128/pexels-photo-1115128.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+      image: 'https://images.pexels.com/photos/1582992/pexels-photo-1582992.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       services: [
         {
           name: 'Special Occasion Makeup',
@@ -105,7 +105,7 @@ export function ServicesPage() {
     },
     {
       category: 'Nail Services',
-      image: 'https://images.pexels.com/photos/1813507/pexels-photo-1813507.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+      image: 'https://images.pexels.com/photos/3997379/pexels-photo-3997379.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       services: [
         {
           name: 'Classic Manicure',
@@ -129,7 +129,7 @@ export function ServicesPage() {
     },
     {
       category: 'Wellness Packages',
-      image: 'https://images.pexels.com/photos/3865538/pexels-photo-3865538.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+      image: 'https://images.pexels.com/photos/3997991/pexels-photo-3997991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       services: [
         {
           name: 'Half Day Retreat',
@@ -158,7 +158,7 @@ export function ServicesPage() {
       <section className="relative h-[60vh] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="https://images.pexels.com/photos/3865538/pexels-photo-3865538.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            src="https://images.pexels.com/photos/3997991/pexels-photo-3997991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
             alt="Our Services"
             className="w-full h-full object-cover"
           />

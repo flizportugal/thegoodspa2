@@ -19,7 +19,7 @@ export function GiftCardsPage() {
       <section className="relative h-[60vh] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="https://images.pexels.com/photos/3738388/pexels-photo-3738388.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            src="https://images.pexels.com/photos/1582992/pexels-photo-1582992.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
             alt="Gift Cards"
             className="w-full h-full object-cover"
           />

@@ -6,14 +6,14 @@ export function AboutPage() {
       name: 'Sarah Mitchell',
       role: 'Founder & Lead Esthetician',
       credentials: 'Licensed Esthetician, 15+ years experience',
-      image: '/partner1.jpg',
+      image: 'https://images.pexels.com/photos/3785074/pexels-photo-3785074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       bio: 'Sarah founded The Good Spa with a vision to create a sanctuary where luxury meets wellness. Her expertise in advanced skincare treatments has transformed thousands of clients.',
     },
     {
       name: 'Elena Rodriguez',
       role: 'Master Hair Stylist & Colorist',
       credentials: 'Vidal Sassoon Certified, 12+ years experience',
-      image: '/partner2.jpg',
+      image: 'https://images.pexels.com/photos/3992879/pexels-photo-3992879.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       bio: 'Elena brings her artistic vision and technical mastery to every hair transformation. Trained at the prestigious Vidal Sassoon Academy, she specializes in color correction and precision cuts.',
     },
   ]
@@ -23,7 +23,7 @@ export function AboutPage() {
       <section className="relative h-[60vh] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="/howitworks_robe.jpg"
+            src="https://images.pexels.com/photos/3997991/pexels-photo-3997991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
             alt="About Us"
             className="w-full h-full object-cover"
           />

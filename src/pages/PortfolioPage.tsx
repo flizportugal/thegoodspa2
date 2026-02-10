@@ -2,17 +2,17 @@ export function PortfolioPage() {
   const portfolioItems = [
     {
       category: 'Facial Transformations',
-      image: '/beforeafter_facial.jpg',
+      image: 'https://images.pexels.com/photos/3997993/pexels-photo-3997993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       description: 'Our advanced facial treatments reveal radiant, youthful skin',
     },
     {
       category: 'Hair Makeovers',
-      image: '/beforeafter_hair.jpg',
+      image: 'https://images.pexels.com/photos/3065209/pexels-photo-3065209.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       description: 'Expert color and styling for stunning transformations',
     },
     {
       category: 'Makeup Artistry',
-      image: '/beforeafter_makeup.jpg',
+      image: 'https://images.pexels.com/photos/1582992/pexels-photo-1582992.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       description: 'Professional makeup for any occasion',
     },
   ]
@@ -22,7 +22,7 @@ export function PortfolioPage() {
       <section className="relative h-[60vh] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="/beforeafter_facial.jpg"
+            src="https://images.pexels.com/photos/3997993/pexels-photo-3997993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
             alt="Portfolio"
             className="w-full h-full object-cover"
           />
